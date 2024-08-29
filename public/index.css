@@ -1,0 +1,13 @@
+html {
+  background-color: whitesmoke;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+hr {
+  width: 90%;
+}
